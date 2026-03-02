@@ -21,7 +21,7 @@ safe-cleanup-toolkit/
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/your-username/safe-cleanup-toolkit.git
+git clone https://github.com/neps-in/safe-cleanup-toolkit.git
 cd safe-cleanup-toolkit
 ```
 
